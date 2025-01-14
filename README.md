@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=본인의 백준 ID)](https://solved.ac/autok23/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=autok23)](https://solved.ac/autok23/)
 
 
 <!--
