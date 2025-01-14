@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=본인의 백준 ID)](https://solved.ac/autok23/)
+
+
 <!--
 **platii/platii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
